@@ -1,0 +1,6 @@
+[submodule "verified-chain-sc"]
+	path = verified-chain-sc
+	url = https://github.com/yonathanavila/verified-chain-sc
+[submodule "verified-chain-bk"]
+	path = verified-chain-bk
+	url = https://github.com/yonathanavila/verified-chain-bk
