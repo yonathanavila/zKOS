@@ -4,3 +4,6 @@
 [submodule "verified-chain-bk"]
 	path = verified-chain-bk
 	url = https://github.com/yonathanavila/verified-chain-bk
+[submodule "verified-chain-frontend"]
+	path = verified-chain-frontend
+	url = https://github.com/yonathanavila/verified-chain-frontend
